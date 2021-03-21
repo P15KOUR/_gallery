@@ -6,7 +6,7 @@ caption: Το ArcGIS είναι ένα σύστημα γεωγραφικών π�
 license_url: https://en.wikipedia.org/wiki/ArcGIS 
 license_text: wikipedia
 categories:
-  - archetypes
+  - visualization
 tags:
   - Gis
 ---
